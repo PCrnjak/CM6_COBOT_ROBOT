@@ -2,40 +2,35 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 # CM6 Robotic arm
 
-<img src="https://user-images.githubusercontent.com/30388414/125830708-43a0d948-11fb-43bc-8ea6-6f5593644ebd.jpg" width="1000">
+
+M6 uses 6 gimbal BLDC motors paired with small gear ratio gearboxes ( from 5:1 to 9:1), by doing that it is passively compliant and safe. Each Joint is using an S-Drive BLDC driver that is mounted on modular actuator designs for specific gimbal motors. Design can be changed easily by using different size aluminum extrusions or changing the gear ratio of modular gearboxes.
+
+The total price of this first version is around 1000 dollars in raw materials.
 
 
-Faze4 is small fully 3d printable Open source 6 axis robotic arm. It is functionally and esthetically similar to robotic arms in industry but is aimed for research, education and 
-anyone interested in making his own robot arm. 
-Main "selling points" of this arm that separate it from other DIY arms are:
+Read more about robot on Hackaday!
 
-
-* It is cheap <1000 dollars.
-* Uses 3d printed cycloidal gearboxes which have low backlash and can be repaired really easy.
-* All wires are hidden giving it really clean design.
-
-
-Whole arm has around 1000 parts (including screws and bearings) and weights around 15 kg.
 
 # Check the arm in action !
-[![Check the arm in action !](https://user-images.githubusercontent.com/30388414/125830708-43a0d948-11fb-43bc-8ea6-6f5593644ebd.jpg)](https://www.youtube.com/watch?v=Anlyy9rq5Yk)
+[![Check the arm in action !](https://user-images.githubusercontent.com/30388414/125831651-ee87cd81-f69f-4bf7-a26f-48dccb63ba4c.jpg)](https://www.youtube.com/watch?v=Anlyy9rq5Yk)
 
 # Where to start ? 
 
-To build this robotic arm follow [Building instructions](https://github.com/PCrnjak/Faze4-Robotic-arm/blob/master/Assembly%20instructions%203.0.pdf). All general info about robotic arm is in [DOCS](https://faze4-robotic-arm-docs.readthedocs.io/en/latest/). Building instructions and DOCS go hand in hand and you need to follow both to build this arm. Building instructions are about general mechanical assembly while DOCS contain ALL info ( Electrical wiring, Low level setup, High level ROS and Matlab, tips ...).
+Coming soon
 
 # Contents:
 
-- [Low level code]() coming soon
-- [High level code (ROS and Matlab)]() coming soon
-- [Building instructions](https://github.com/PCrnjak/Faze4-Robotic-arm/blob/master/Assembly%20instructions%203.0.pdf)
-- [BOM](https://github.com/PCrnjak/Faze4-Robotic-arm/blob/master/Bom_1.2_joint2_update.xlsx) 
-- [DOCS](https://faze4-robotic-arm-docs.readthedocs.io/en/latest/) Contains ALL info about the arm.
-- [URDF files](https://github.com/PCrnjak/Faze4-Robotic-arm/tree/master/URDF_FAZE4) 
+- [BLDC driver production files]() coming soon
+- [Robot arm STEP files)]() coming soon
+- [Robot arm simple solidworks model](https://github.com/PCrnjak/Faze4-Robotic-arm/blob/master/Assembly%20instructions%203.0.pdf)
+- [Building instructions]
+- [BOM]
+- [BLDC driver firmware]
+- [Robot python software and GUI]
 
 # Where to see more CM6 robotic arm?
 - [Youtube](https://www.youtube.com/channel/UCp3sDRwVkbm7b2M-2qwf5aQ)
-- [Hackaday](https://hackaday.io/project/167247-faze4-robotic-arm)
+- [Hackaday](SOON)
 
 
 # Support the project
