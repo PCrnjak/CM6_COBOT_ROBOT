@@ -1,8 +1,8 @@
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 # CM6 Robotic arm
 
-
-<img src="https://user-images.githubusercontent.com/30388414/86795587-028dbb80-c06e-11ea-9d71-3d6fbda6cb87.png" width="1200"> 
+<img src="https://user-images.githubusercontent.com/30388414/125830708-43a0d948-11fb-43bc-8ea6-6f5593644ebd.jpg" width="1000">
 
 
 Faze4 is small fully 3d printable Open source 6 axis robotic arm. It is functionally and esthetically similar to robotic arms in industry but is aimed for research, education and 
@@ -18,7 +18,7 @@ Main "selling points" of this arm that separate it from other DIY arms are:
 Whole arm has around 1000 parts (including screws and bearings) and weights around 15 kg.
 
 # Check the arm in action !
-[![Check the arm in action !](https://user-images.githubusercontent.com/30388414/86797452-f86cbc80-c06f-11ea-962e-c3f80d14b41b.png)](https://www.youtube.com/watch?v=OHw6_l_8Tnk)
+[![Check the arm in action !](https://user-images.githubusercontent.com/30388414/125830708-43a0d948-11fb-43bc-8ea6-6f5593644ebd.jpg)](https://www.youtube.com/watch?v=Anlyy9rq5Yk)
 
 # Where to start ? 
 
