@@ -1,0 +1,6 @@
+Output_connector - 8x2 pin male pin header
+RS485 Chip -Exar SP3485EN-L/TR
+RT9013 Voltage regulator - RT9013
+J2 - 6x1 male pin header
+Header 7 - 7x1 female pin header
+KF301-2P - KF301 connector 2 pin
