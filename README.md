@@ -26,7 +26,7 @@ Coming soon
 - [Building instructions]
 - [BOM]
 - [BLDC driver firmware]
-- [Robot python software and GUI]
+- [Robot python software and GUI](https://github.com/PCrnjak/CM6_control_software)
 
 # Where to see more CM6 robotic arm?
 - [Youtube](https://www.youtube.com/channel/UCp3sDRwVkbm7b2M-2qwf5aQ)
