@@ -3,7 +3,7 @@
 # CM6 Robotic arm
 
 
-M6 uses 6 gimbal BLDC motors paired with small gear ratio gearboxes ( from 5:1 to 9:1), by doing that it is passively compliant and safe. Each Joint is using an S-Drive BLDC driver that is mounted on modular actuator designs for specific gimbal motors. Design can be changed easily by using different size aluminum extrusions or changing the gear ratio of modular gearboxes.
+CM6 uses 6 gimbal BLDC motors paired with small gear ratio gearboxes ( from 5:1 to 9:1), by doing that it is passively compliant and safe. Each Joint is using an S-Drive BLDC driver that is mounted on modular actuator designs for specific gimbal motors. Design can be changed easily by using different size aluminum extrusions or changing the gear ratio of modular gearboxes.
 
 The total price of this first version is around 1000 dollars in raw materials.
 
