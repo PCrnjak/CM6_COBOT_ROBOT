@@ -30,7 +30,7 @@ Coming soon
 
 # Where to see more CM6 robotic arm?
 - [Youtube](https://www.youtube.com/channel/UCp3sDRwVkbm7b2M-2qwf5aQ)
-- [Hackaday](SOON)
+- [Hackaday](https://hackaday.io/project/180588-cm6-compliant-3d-printed-robotic-arm)
 
 
 # Support the project
