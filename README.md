@@ -2,6 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 # CM6 Robotic arm
 
+Join discord community: https://discord.com/invite/prjUvjmGpZ
 
 CM6 uses 6 gimbal BLDC motors paired with small gear ratio gearboxes ( from 5:1 to 9:1), by doing that it is passively compliant and safe. Each Joint is using an S-Drive BLDC driver that is mounted on modular actuator designs for specific gimbal motors. Design can be changed easily by using different size aluminum extrusions or changing the gear ratio of modular gearboxes.
 
