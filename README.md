@@ -5,7 +5,7 @@
 Our official website: https://source-robotics.com/
 Join the discord community: https://discord.com/invite/prjUvjmGpZ
 
-CM6 uses 6 gimbal BLDC motors paired with small gear ratio gearboxes ( from 5:1 to 9:1), by doing that it is passively compliant and safe. Each Joint is using an S-Drive BLDC driver that is mounted on modular actuator designs for specific gimbal motors. Design can be changed easily by using different-sized aluminum extrusions or changing the gear ratio of modular gearboxes.
+CM6 uses 6 gimbal BLDC motors paired with small gear ratio gearboxes ( from 5:1 to 9:1), by doing that it is passively compliant and safe. Each Joint uses an S-Drive BLDC driver that is mounted on modular actuator designs for specific gimbal motors. Design can be changed easily by using different-sized aluminum extrusions or changing the gear ratio of modular gearboxes.
 
 The total price of this first version is around 1000 dollars in raw materials.
 
@@ -20,7 +20,7 @@ Read more about the robot on Hackaday!
 # Contents:
 
 
-- [Robot arm build instructions](https://github.com/PCrnjak/Faze4-Robotic-arm/blob/master/Assembly%20instructions%203.0.pdf)
+- [Robot arm build instructions](https://github.com/PCrnjak/CM6_COBOT_ROBOT/blob/main/assembly_instructions_v1.pdf)
 - [Robot python software and GUI](https://github.com/PCrnjak/CM6_control_software)
 
 # Where to see more CM6 robotic arm?
