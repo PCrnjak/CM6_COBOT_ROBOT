@@ -1,5 +1,5 @@
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) ![Issues](https://img.shields.io/github/issues/PCrnjak/CM6_COBOT_ROBOT) ![release](https://img.shields.io/github/v/release/PCrnjak/CM6_COBOT_ROBOT)
 # CM6 Robotic arm
 
 Our official website: https://source-robotics.com/
