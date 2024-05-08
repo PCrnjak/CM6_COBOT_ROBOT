@@ -20,7 +20,7 @@ CM6 uses 6 gimbal BLDC motors paired with small gear ratio gearboxes ( from 5:1 
 
 # Contents:
 
-- [Robot arm build instructions](https://github.com/PCrnjak/CM6_COBOT_ROBOT/blob/main/assembly_instructions_v1.pdf)
+- [Robot arm build instructions](https://github.com/PCrnjak/CM6_COBOT_ROBOT/blob/main/assembly_instructions_v2.pdf)
 - [Robot python software and GUI *Coming soon]()
 
 # Where to see more CM6 robotic arm?
